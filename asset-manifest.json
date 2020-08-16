@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/VidNotes/static/css/main.5f361e03.chunk.css",
+    "main.js": "/VidNotes/static/js/main.d534514e.chunk.js",
+    "main.js.map": "/VidNotes/static/js/main.d534514e.chunk.js.map",
+    "runtime-main.js": "/VidNotes/static/js/runtime-main.9c0d7f88.js",
+    "runtime-main.js.map": "/VidNotes/static/js/runtime-main.9c0d7f88.js.map",
+    "static/js/2.c288dc37.chunk.js": "/VidNotes/static/js/2.c288dc37.chunk.js",
+    "static/js/2.c288dc37.chunk.js.map": "/VidNotes/static/js/2.c288dc37.chunk.js.map",
+    "index.html": "/VidNotes/index.html",
+    "precache-manifest.164aecf96ec2e9367bba466e11328e8b.js": "/VidNotes/precache-manifest.164aecf96ec2e9367bba466e11328e8b.js",
+    "service-worker.js": "/VidNotes/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/VidNotes/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c288dc37.chunk.js.LICENSE.txt": "/VidNotes/static/js/2.c288dc37.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/VidNotes/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c0d7f88.js",
+    "static/js/2.c288dc37.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d534514e.chunk.js"
+  ]
+}
